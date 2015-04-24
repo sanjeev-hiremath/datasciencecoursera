@@ -1,2 +1,2 @@
 # datasciencecoursera
-Course Project: Setting up accounts
+Course Project: Assignment step 3
